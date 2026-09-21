@@ -6,13 +6,14 @@ readme = "README.md"
 requires-python = ">=3.13"
 
 [tool.splent]
-features = [
+features = [    
     "auth",
     "dataset",
     "explore",
     "featuremodel",
     "flamapy",
     "hubfile",
+    "notepad",
     "profile",
     "public",
     "team",
